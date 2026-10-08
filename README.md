@@ -31,9 +31,11 @@
 
 ### 🕷 Парсинг и данные
 
-**[onbon-parser](https://github.com/valentinpo/onbon-parser)** — парсер каталога onbon.ru: извлекает характеристики LED-оборудования и экспортирует в CSV для систем учёта (1С, МойСклад).
+**Экосистема Onbon** — сбор и структурирование данных о LED-оборудовании Onbon (три связанных репозитория):
 
-**[Onbon-LED-Controllers-Data-Repository](https://github.com/valentinpo/Onbon-LED-Controllers-Data-Repository)** — структурированная база данных LED-контроллеров Onbon с ETL-пайплайном.
+- [onbon-parser](https://github.com/valentinpo/onbon-parser) — парсер каталога **onbon.ru**
+- [onbonbx-parser](https://github.com/valentinpo/onbonbx-parser) — парсер каталога **ru.onbonbx.com**
+- [Onbon-LED-Controllers-Data-Repository](https://github.com/valentinpo/Onbon-LED-Controllers-Data-Repository) — ETL-хранилище и структурированная база LED-контроллеров Onbon
 
 **[json-catalog-linker](https://github.com/valentinpo/json-catalog-linker)** — автообновление ссылок на документацию в JSON-каталогах по внешнему файлу.
 
