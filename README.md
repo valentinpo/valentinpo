@@ -19,6 +19,8 @@
 
 ### 🖥 Утилиты для ПК
 
+**[BatteryDiag-Pro](https://github.com/valentinpo/BatteryDiag-Pro)** — десктопная программа диагностики аккумуляторов (Python/Tkinter): замеры ячеек, расчёт SoH, графики, протоколы HTML/Excel/PDF, QR-коды.
+
 **[registry-cleaner](https://github.com/valentinpo/registry-cleaner)** — безопасная очистка реестра Windows: битые ссылки, мёртвые расширения проводника, 3 режима сканирования, тёмная тема, автообновление. Один `.exe`, без зависимостей.
 
 **[local-snapshot](https://github.com/valentinpo/local-snapshot)** — мгновенный бэкап проекта в ZIP с проверкой места на диске и уведомлениями. Только стандартная библиотека Python.
