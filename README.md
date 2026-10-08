@@ -29,6 +29,10 @@
 
 **[Warehouse-Orders-Manager](https://github.com/valentinpo/Warehouse-Orders-Manager)** — Telegram-бот управления складом LED-модулей: заказы, аналитика, экспорт в Excel, визуализация остатков.
 
+**[led-support-bot](https://github.com/valentinpo/led-support-bot)** — бот техподдержки LED-экранов и бегущих строк: ядро диалога, адаптеры Telegram/MAX, HTML-база знаний PixelFixer и десктоп-приложение.
+
+**[banya-bot](https://github.com/valentinpo/banya-bot)** — Telegram-бот бронирования бани на платформе MAX: дата, время, гости, подтверждение администратором.
+
 ### 🕷 Парсинг и данные
 
 **Экосистема Onbon** — сбор и структурирование данных о LED-оборудовании Onbon (три связанных репозитория):
@@ -36,6 +40,8 @@
 - [onbon-parser](https://github.com/valentinpo/onbon-parser) — парсер каталога **onbon.ru**
 - [onbonbx-parser](https://github.com/valentinpo/onbonbx-parser) — парсер каталога **ru.onbonbx.com**
 - [Onbon-LED-Controllers-Data-Repository](https://github.com/valentinpo/Onbon-LED-Controllers-Data-Repository) — ETL-хранилище и структурированная база LED-контроллеров Onbon
+
+**[INN-Reconciler](https://github.com/valentinpo/INN-Reconciler)** — валидация ИНН и сопоставление контрагентов с данными ЕГРЮЛ: загрузка выписок и генерация HTML-отчётов.
 
 **[json-catalog-linker](https://github.com/valentinpo/json-catalog-linker)** — автообновление ссылок на документацию в JSON-каталогах по внешнему файлу.
 
