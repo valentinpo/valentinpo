@@ -37,6 +37,10 @@
 
 **[banya-bot](https://github.com/valentinpo/banya-bot)** — Telegram-бот бронирования бани на платформе MAX: дата, время, гости, подтверждение администратором.
 
+**[botmax](https://github.com/valentinpo/botmax)** — боты для платформы MAX на Python: long-polling, SQLite, приветствия и статистика.
+
+**[anketa-max](https://github.com/valentinpo/anketa-max)** — система сбора анкет организаций на PHP: веб-форма + MAX Mini App, JSON-хранилище и email-уведомления.
+
 ### 🕷 Парсинг и данные
 
 **Экосистема Onbon** — сбор и структурирование данных о LED-оборудовании Onbon (три связанных репозитория):
@@ -44,6 +48,12 @@
 - [onbon-parser](https://github.com/valentinpo/onbon-parser) — парсер каталога **onbon.ru**
 - [onbonbx-parser](https://github.com/valentinpo/onbonbx-parser) — парсер каталога **ru.onbonbx.com**
 - [Onbon-LED-Controllers-Data-Repository](https://github.com/valentinpo/Onbon-LED-Controllers-Data-Repository) — ETL-хранилище и структурированная база LED-контроллеров Onbon
+
+**[LedFinder](https://github.com/valentinpo/LedFinder)** — генератор HTML-каталога LED-контроллеров из JSON: карточки товаров, фото, шаблоны (Python).
+
+**[roszdrav-checker](https://github.com/valentinpo/roszdrav-checker)** — массовая проверка медлицензий по ИНН в реестре Росздравнадзора (Playwright).
+
+**[json-merge](https://github.com/valentinpo/json-merge)** — простая утилита объединения нескольких JSON-файлов в один.
 
 **[INN-Reconciler](https://github.com/valentinpo/INN-Reconciler)** — валидация ИНН и сопоставление контрагентов с данными ЕГРЮЛ: загрузка выписок и генерация HTML-отчётов.
 
