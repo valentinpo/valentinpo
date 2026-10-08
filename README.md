@@ -25,7 +25,9 @@
 
 **[local-snapshot](https://github.com/valentinpo/local-snapshot)** — мгновенный бэкап проекта в ZIP с проверкой места на диске и уведомлениями. Только стандартная библиотека Python.
 
-**[File-Organizer](https://github.com/valentinpo/File-Organizer)** — кроссплатформенный органайзер файлов: сортировка по расширениям и датам, светлая/тёмная тема, тестовый режим.
+**[File-Organizer](https://github.com/valentinpo/File-Organizer)** — кроссплатформенный органайзер файлов: сортировка по расширениям и датам, светлая/тёмная тема, тестовый режим, автообновление.
+
+**[local-network-scanner](https://github.com/valentinpo/local-network-scanner)** — сканер и мониторинг локальной сети (FastAPI + Scapy): автоопределение подсети, поиск устройств, определение производителя по MAC, уведомления о новых устройствах.
 
 ### 🤖 Telegram-боты
 
