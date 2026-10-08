@@ -49,6 +49,8 @@
 
 ### 🌐 Веб
 
+**[browser-games](https://github.com/valentinpo/browser-games)** — 7 браузерных HTML5-игр на чистом JS: кликер, выживание, платформер, шутер, змейка, 4X-стратегия, симулятор магазина. Играть онлайн: [valentinpo.github.io/browser-games](https://valentinpo.github.io/browser-games/).
+
 **[olga-portfolio](https://github.com/valentinpo/olga-portfolio)** — сайт-портфолио аналитика данных (GitHub Pages).
 
 ---
