@@ -8,10 +8,11 @@
 
 - 🐍 **Python 3** — основной язык
 - 🖥 **GUI-разработка** — Tkinter, кроссплатформенные десктоп-приложения
-- 🤖 **Telegram-боты** — aiogram
+- 🤖 **Telegram / MAX боты** — aiogram, MAX Bot API
 - 🗄 **Базы данных** — PostgreSQL, SQLite
 - 🕷 **Парсинг и автоматизация** — извлечение данных, ETL-пайплайны
 - 🌐 **Верстка** — адаптивные HTML-страницы
+- ⚙️ **Node.js** — автопостинг, веб-серверы (Express)
 
 ---
 
@@ -29,7 +30,11 @@
 
 **[local-network-scanner](https://github.com/valentinpo/local-network-scanner)** — сканер и мониторинг локальной сети (FastAPI + Scapy): автоопределение подсети, поиск устройств, определение производителя по MAC, уведомления о новых устройствах.
 
-### 🤖 Telegram-боты
+### 🤖 Боты и автоматизация (Telegram / MAX)
+
+**[Archivium](https://github.com/valentinpo/Archivium)** — архив и аналитика контента чатов и каналов MAX: автовыгрузка истории, статистика, поиск, отчёты Excel/HTML (чистый Python, без зависимостей).
+
+**[max-auto-post](https://github.com/valentinpo/max-auto-post)** — автопостинг в каналы MAX (Node.js): картинки, текст и кнопки по расписанию + веб-панель управления.
 
 **[Warehouse-Orders-Manager](https://github.com/valentinpo/Warehouse-Orders-Manager)** — Telegram-бот управления складом LED-модулей: заказы, аналитика, экспорт в Excel, визуализация остатков.
 
@@ -70,6 +75,7 @@
 ## 📫 Связаться со мной
 
 - 🐙 GitHub: [@valentinpo](https://github.com/valentinpo)
+- 🇷🇺 GitVerse: [@valentin66](https://gitverse.ru/valentin66)
 - 📍 Екатеринбург, Россия
 
 > *«Делаю инструменты, которые решают реальные задачи — без лишнего пафоса»*
