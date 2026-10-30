@@ -64,6 +64,8 @@
 
 **[json-catalog-linker](https://github.com/valentinpo/json-catalog-linker)** — автообновление ссылок на документацию в JSON-каталогах по внешнему файлу.
 
+**[photo-agent](https://github.com/valentinpo/photo-agent)** — индекс фотографий для подбора по постам: Vision-описание (Yandex AI Studio), переименование файлов, запись EXIF, семантический поиск по тексту.
+
 ### 🌐 Веб
 
 **[post-storage](https://github.com/valentinpo/post-storage)** — автономная система хранения постов для каналов: браузерный интерфейс для работы с Excel-таблицей постов (открытие, редактирование, сохранение) + структура медиа по каналам. Работает офлайн.
