@@ -66,6 +66,8 @@
 
 ### 🌐 Веб
 
+**[post-storage](https://github.com/valentinpo/post-storage)** — автономная система хранения постов для каналов: браузерный интерфейс для работы с Excel-таблицей постов (открытие, редактирование, сохранение) + структура медиа по каналам. Работает офлайн.
+
 **[browser-games](https://github.com/valentinpo/browser-games)** — 7 браузерных HTML5-игр на чистом JS: кликер, выживание, платформер, шутер, змейка, 4X-стратегия, симулятор магазина. Играть онлайн: [valentinpo.github.io/browser-games](https://valentinpo.github.io/browser-games/).
 
 **[olga-portfolio](https://github.com/valentinpo/olga-portfolio)** — сайт-портфолио аналитика данных (GitHub Pages).
